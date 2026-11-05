@@ -1,0 +1,3387 @@
+{
+  "tool": "suite-builder",
+  "kind": "templates",
+  "version": 2,
+  "startUrl": "https://www.phoenixoutcomes.com/",
+  "origin": "https://www.phoenixoutcomes.com",
+  "pagesRead": 54,
+  "menu": [
+    {
+      "to": "https://www.phoenixoutcomes.com/careers",
+      "href": "/careers",
+      "text": "Careers",
+      "region": "header",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "careers"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/guide-me",
+      "href": "/guide-me",
+      "text": "Guide me",
+      "region": "header",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "guide-me"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/lets-talk",
+      "href": "/lets-talk",
+      "text": "Connect",
+      "region": "header",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "lets-talk"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/services/ai",
+      "href": "/services/ai",
+      "text": "AI Services",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "services-ai"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/ai-education",
+      "href": "/ai-education",
+      "text": "AI Education",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "ai-education"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/services/technical-advisory",
+      "href": "/services/technical-advisory",
+      "text": "Technical Advisory",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "service"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/services/technology-delivery",
+      "href": "/services/technology-delivery",
+      "text": "Core Technology Delivery",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "service"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/phoenix-burst",
+      "href": "/phoenix-burst",
+      "text": "Phoenix Burst",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "phoenix-burst"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/federal",
+      "href": "/federal",
+      "text": "Federal Technology Delivery",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "federal"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/human-futures",
+      "href": "/human-futures",
+      "text": "Human Futures",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "human-futures"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/next-chapter",
+      "href": "/next-chapter",
+      "text": "The Next Chapter",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "next-chapter"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/industries/mortgage-banking-consumer-lending",
+      "href": "/industries/mortgage-banking-consumer-lending",
+      "text": "Mortgage Banking & Consumer Lending",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "industry"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/industries/housing-finance-secondary-market",
+      "href": "/industries/housing-finance-secondary-market",
+      "text": "Housing Finance & Secondary Market",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "industry"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/industries/federal-housing-veterans-programs",
+      "href": "/industries/federal-housing-veterans-programs",
+      "text": "Federal Housing & Veterans Programs",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "industry"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/industries/federal-health-benefits-administration",
+      "href": "/industries/federal-health-benefits-administration",
+      "text": "Federal Health & Benefits Administration",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/insights",
+      "href": "/insights",
+      "text": "Insights",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "insights"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/testimonials",
+      "href": "/testimonials",
+      "text": "Testimonials",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "testimonials"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/events",
+      "href": "/events",
+      "text": "Events",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "events"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/who-we-are",
+      "href": "/who-we-are",
+      "text": "About PhoenixTeam",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/who-we-are/leadership",
+      "href": "/who-we-are/leadership",
+      "text": "Leadership",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "who-we-are"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/press",
+      "href": "/press",
+      "text": "Press & News",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/awards",
+      "href": "/awards",
+      "text": "Awards",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/certifications",
+      "href": "/certifications",
+      "text": "Certifications",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/lets-talk?topic=ai",
+      "href": "/lets-talk?topic=ai",
+      "text": "IF YOU'RE AN Operator Put AI to work inside your operation.",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/lets-talk?topic=education",
+      "href": "/lets-talk?topic=education",
+      "text": "IF YOU'RE Building AI skills Train your team with role-based AI education.",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/lets-talk?topic=federal",
+      "href": "/lets-talk?topic=federal",
+      "text": "IF YOU'RE A Federal agency Work with a CMMI L3 federal prime contractor.",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/lets-talk?topic=careers",
+      "href": "/lets-talk?topic=careers",
+      "text": "IF YOU WANT TO Join the team See open roles across our 225+ practitioners.",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/industries/industry-education-associations",
+      "href": "/industries/industry-education-associations",
+      "text": "Industry Education & Associations",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/industries/product-venture-development",
+      "href": "/industries/product-venture-development",
+      "text": "Product & Venture Development",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/privacy-policy",
+      "href": "/privacy-policy",
+      "text": "Privacy Policy",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/terms-of-use",
+      "href": "/terms-of-use",
+      "text": "Terms of Use",
+      "region": "footer",
+      "seenOn": "https://www.phoenixoutcomes.com/",
+      "template": "terms-of-use"
+    },
+    {
+      "to": "https://www.phoenixoutcomes.com/",
+      "href": "/",
+      "text": "PhoenixTeam Logo",
+      "region": "header",
+      "seenOn": "https://www.phoenixoutcomes.com/terms-of-use/",
+      "template": "home"
+    }
+  ],
+  "templates": [
+    {
+      "id": "home",
+      "name": "HomePage",
+      "urlPatterns": [
+        "/"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "PhoenixTeam | Enterprise Technology & AI for Mortgage",
+      "sharedHeadings": [
+        "Accelerating mortgage outcomes with AI that ships.",
+        "We build, teach, and advise on AI for mortgage.",
+        "What our clients say",
+        "Human Owned.Practitioner Led.AI Enabled.",
+        "Tela G. Mathias",
+        "Tanya Brennan",
+        "Tom Westerlind",
+        "AI education for what's next.",
+        "Facilitated Workshops",
+        "AI Bootcamps",
+        "Strategy in a Box",
+        "Education Courses",
+        "MBA Partnership",
+        "AI Exchange",
+        "From the people doing the work",
+        "They Came to Learn AI. They Left Knowing Their Own Value.",
+        "The Case for Bare Metal AI",
+        "Founder Roundtable: The First Summer of Human Futures",
+        "Meet us where the industry gathers",
+        "ISACA Leading Tech: A SheLeadsTech Event",
+        "AWS re:Invent",
+        "MISMO Winter Summit",
+        "AmeriCatalyst: Relevance — Reimagining the American Dream",
+        "TRON Networking at MBA Servicing",
+        "MBA's Servicing Solutions Conference and Expo",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 3,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/human-futures-year-one-recap",
+            "href": "/news-and-insights/human-futures-year-one-recap",
+            "text": "+ Industry Trends Human Futures, Year One Industry Trends · October 28, 2026 Th…"
+          }
+        }
+      ],
+      "why": {
+        "rule": "start-page",
+        "says": "the start page: always a page type of its own, since every test starts there"
+      }
+    },
+    {
+      "id": "terms-of-use",
+      "name": "TermsOfUsePage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/terms-of-use/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Terms of Use | PhoenixTeam",
+      "sharedHeadings": [
+        "Terms of Use",
+        "1. Acceptance of Terms",
+        "2. Use of Site",
+        "3. Intellectual Property",
+        "4. Privacy",
+        "5. Limitation of Liability",
+        "6. Governing Law",
+        "7. Contact Us",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /testimonials/, /events/, /who-we-are/leadership/ and 3 more, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "insights",
+      "name": "InsightsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/insights/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Insights & Perspectives | PhoenixTeam",
+      "sharedHeadings": [
+        "Perspectives from the people doing the work.",
+        "All Insights",
+        "They Came to Learn AI. They Left Knowing Their Own Value.",
+        "The Case for Bare Metal AI",
+        "Founder Roundtable: The First Summer of Human Futures",
+        "Tela Mathias Named HousingWire Vanguard for Leadership in Mortgage and AI",
+        "The Economics of AI: Part 1 (Continued) - The Cost of Innovation",
+        "Nothing we make is real. Everything we make is real.",
+        "The Economics of AI: Part 1 - Cost",
+        "PhoenixTeam Earns Inc. Best Workplaces Recognition for People-First Culture",
+        "The Infamous Footnote - Implications of GenAI on Fair Lending",
+        "PhoenixTeam Achieves SOC 2 Type II Compliance for Phoenix Burst",
+        "A Continuous Mortgage Innovation Pipeline",
+        "Agentic AI in Financial Services",
+        "From vision to value: How AI is taking shape in mortgage",
+        "Introducing Large Language Models to Traditional Machine Learning Operations",
+        "GTC Insights | Visual AI Agents for Real Time Video Understanding",
+        "GTC Insights | Open Source and Agentic Development",
+        "GTC Depression - Jensen's Keynote",
+        "Process and Technical Hurdles to Achieve the Mortgage AI Future",
+        "The Homogenization of Everything",
+        "The Scary and Very Odd Thing That Happened Last Week",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 18,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/insights/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/human-futures-year-one-recap",
+            "href": "/news-and-insights/human-futures-year-one-recap",
+            "text": "+ Industry Trends Human Futures, Year One Industry Trends 7 min read They Came …"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "All"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='All']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/insights/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Industry Trends"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Industry Trends']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/insights/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "AI Strategy"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='AI Strategy']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/insights/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Regulatory"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Regulatory']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/insights/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Engineering"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Engineering']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/insights/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "LOAD MORE"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Load More']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/insights/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /who-we-are/leadership/laura-macintyre/, shares 65% of its layout and 18% of its headings)"
+      }
+    },
+    {
+      "id": "article",
+      "name": "ArticlePage",
+      "urlPatterns": [
+        "/news-and-insights/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/news-and-insights/the-scary-and-very-odd-thing-that-happened-last-week/",
+        "https://www.phoenixoutcomes.com/news-and-insights/the-ai-futures-program-a-13-week-program-for-high-school-seniors-and-college-students/",
+        "https://www.phoenixoutcomes.com/news-and-insights/human-futures-year-one-recap/",
+        "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-launches-human-futures-first-cohort-begins-hands-on-ai-and-career-readiness-work/",
+        "https://www.phoenixoutcomes.com/news-and-insights/eleven-reasons-why-the-mortgage-industry-isnt-further-along-with-genai-adoption/",
+        "https://www.phoenixoutcomes.com/news-and-insights/tela-mathias-named-housingwire-vanguard-for-leadership-in-mortgage-and-ai/",
+        "https://www.phoenixoutcomes.com/news-and-insights/the-homogenization-of-everything/",
+        "https://www.phoenixoutcomes.com/news-and-insights/continuous-mortgage-innovation-pipeline/",
+        "https://www.phoenixoutcomes.com/news-and-insights/blue-phoenix-awarded-215-million-va-loan-guaranty-devsecops-contract-a-phoenixteam-and-blue-bay-mentor-protege-joint-venture/",
+        "https://www.phoenixoutcomes.com/news-and-insights/inside-phoenixteam-value-engineer-bootcamp/",
+        "https://www.phoenixoutcomes.com/news-and-insights/process-and-technical-hurdles-to-achieve-the-mortgage-ai-future/",
+        "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-achieves-soc-2-type-ii-compliance-for-phoenix-burst/",
+        "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-awarded-49m-contract-to-modernize-usdas-guaranteed-underwriting-system-expanding-rural-homeownership/",
+        "https://www.phoenixoutcomes.com/news-and-insights/the-economics-of-ai-part-1---cost/",
+        "https://www.phoenixoutcomes.com/news-and-insights/an-impassioned-plea-for-ai-ready-mortgage-policy-data/",
+        "https://www.phoenixoutcomes.com/news-and-insights/open-source-and-agentic-development/",
+        "https://www.phoenixoutcomes.com/news-and-insights/the-role-of-mortgage-regulators-in-generative-ai/",
+        "https://www.phoenixoutcomes.com/news-and-insights/the-case-for-bare-metal-ai/",
+        "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-approved-as-dod-skillbridge-partner-to-help-active-duty-military-service-members-re-enter-civilian-workforce/",
+        "https://www.phoenixoutcomes.com/news-and-insights/from-vision-to-value-how-ai-is-taking-shape-in-mortgage/",
+        "https://www.phoenixoutcomes.com/news-and-insights/the-evolution-of-service-level-agreements-why-ai-evaluations-matter-in-mortgage/",
+        "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-earns-inc-best-workplaces-recognition-for-people-first-culture/",
+        "https://www.phoenixoutcomes.com/news-and-insights/ten-not-very-easy-steps-to-achieve-ai-workforce-transformation/",
+        "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-names-laura-macintyre-as-partner/",
+        "https://www.phoenixoutcomes.com/news-and-insights/defining-the-word-done-the-phoenix-way/",
+        "https://www.phoenixoutcomes.com/news-and-insights/nothing-we-make-is-real-everything-we-make-is-real/",
+        "https://www.phoenixoutcomes.com/news-and-insights/what-does-the-infamous-mit-study-really-mean-to-us-in-mortgage/",
+        "https://www.phoenixoutcomes.com/news-and-insights/gtc-depression-jensens-keynote/",
+        "https://www.phoenixoutcomes.com/news-and-insights/getting-started-with-vibe-coding-in-four-steps/",
+        "https://www.phoenixoutcomes.com/news-and-insights/agentic-ai-in-financial-services/",
+        "https://www.phoenixoutcomes.com/news-and-insights/251-page-compliance-change-in-hours-not-months/"
+      ],
+      "repeated": true,
+      "knownUrls": 82,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Related Insights",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Company"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 90,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/news-and-insights/the-scary-and-very-odd-thing-that-happened-last-week/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/the-homogenization-of-everything",
+            "href": "/news-and-insights/the-homogenization-of-everything",
+            "text": "Previous The Homogenization of Everything"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 31 pages read look alike (layout 91% the same, headings 39%) and share the address pattern /news-and-insights/*; joined by: the layouts agree, with some headings shared (365 comparisons); the headings agree, with some layout shared (96 comparisons); 4 comparisons held by no rule",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 365
+          },
+          {
+            "rule": "headings-agree",
+            "pairs": 96
+          }
+        ],
+        "apart": 4
+      }
+    },
+    {
+      "id": "industry",
+      "name": "IndustryPage",
+      "urlPatterns": [
+        "/industries/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/industries/mortgage-banking-consumer-lending/",
+        "https://www.phoenixoutcomes.com/industries/housing-finance-secondary-market/",
+        "https://www.phoenixoutcomes.com/industries/federal-housing-veterans-programs/"
+      ],
+      "repeated": true,
+      "knownUrls": 6,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Technical Advisory",
+        "The thinking behind the work.",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 5,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/industries/mortgage-banking-consumer-lending/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/from-vision-to-value-how-ai-is-taking-shape-in-mortgage",
+            "href": "/news-and-insights/from-vision-to-value-how-ai-is-taking-shape-in-mortgage",
+            "text": "+ AI Strategy Mortgage AI: Vision to Value AI Strategy 2 min read From vision t…"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 3 pages read look alike (layout 95% the same, headings 18%) and share the address pattern /industries/*; joined by: the layouts agree, with some headings shared (3 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "careers",
+      "name": "CareersPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/careers/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Careers | PhoenixTeam",
+      "sharedHeadings": [
+        "From first opportunity to a meaningful career.",
+        "Builders, in the wild",
+        "Our Culture",
+        "Fully remote, connected across the U.S.",
+        "What it Means to Be a Phoenician",
+        "What our team loves about PhoenixTeam",
+        "An award-winning place to work",
+        "Best Workplaces",
+        "World's Best Workplaces",
+        "Best Workplaces in Technology",
+        "Great Place to Work Certified",
+        "Best Places to Work",
+        "Benefits & Perks",
+        "A pathway from military service to a technology career.",
+        "From first internship to an AI-ready career.",
+        "Open Roles",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 2,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/careers/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-earns-inc-best-workplaces-recognition-for-people-first-culture",
+            "href": "/news-and-insights/phoenixteam-earns-inc-best-workplaces-recognition-for-people-first-culture",
+            "text": "Best Workplaces"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Show Chase Carpenter's testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label=\"Show Chase Carpenter's testimonial\"]",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show Daniel Dennis's testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label=\"Show Daniel Dennis's testimonial\"]",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show Kellie Stoll's testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label=\"Show Kellie Stoll's testimonial\"]",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show Shawn Burke's testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label=\"Show Shawn Burke's testimonial\"]",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show Caroline Qureshi's testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label=\"Show Caroline Qureshi's testimonial\"]",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show Bob Schatz's testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label=\"Show Bob Schatz's testimonial\"]",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show Mike Ramos's testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label=\"Show Mike Ramos's testimonial\"]",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Previous testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Previous testimonial']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next testimonial"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next testimonial']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "01 Bi-Annual Discretionary Bonus Program +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='01Bi-Annual Discretionary Bonus Program+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "02 Paid Personal Time | Holiday | Sick +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='02Paid Personal Time | Holiday | Sick+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "03 Continuous Learning Culture +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='03Continuous Learning Culture+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "04 Staying Connected +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='04Staying Connected+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "05 Health Insurance Benefits +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='05Health Insurance Benefits+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "06 401(K) Savings Plan +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='06401(K) Savings Plan+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "07 Community Service +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='07Community Service+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "08 Other Insurance +"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='08Other Insurance+']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/careers/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /who-we-are/leadership/laura-macintyre/, shares 45% of its layout and 23% of its headings)"
+      }
+    },
+    {
+      "id": "guide-me",
+      "name": "GuideMePage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/guide-me/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Guide Me | PhoenixTeam",
+      "sharedHeadings": [
+        "Tell us what you're working on.",
+        "Describe what you're working on",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text area",
+          "words": [
+            "Describe what you're working on",
+            "e.g. We're a lender drowning in regulatory bulletins and..."
+          ],
+          "region": "main",
+          "form": "Tell us what you're working on.",
+          "xpath": "//textarea[@id='guide-query']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/guide-me/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Get guidance"
+          ],
+          "region": "main",
+          "form": "Tell us what you're working on.",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Get guidance']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/guide-me/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "We're a mid-size servicer trying to keep up with regulato..."
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),\"We're a mid-size servicer trying to keep\")]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/guide-me/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Train our operations team on GenAI safely"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Train our operations team on GenAI')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/guide-me/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "We need senior engineers to modernize a legacy loan platform"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'We need senior engineers to modernize a')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/guide-me/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Evaluate AI vendors for our origination workflow"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Evaluate AI vendors for our origination')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/guide-me/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /who-we-are/leadership/laura-macintyre/, shares 59% of its layout and 50% of its headings)"
+      }
+    },
+    {
+      "id": "lets-talk",
+      "name": "LetsTalkPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/lets-talk/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Contact Us | PhoenixTeam",
+      "sharedHeadings": [
+        "AI Products & Services",
+        "Your name*",
+        "Email*",
+        "Company",
+        "Your role",
+        "What problem are you trying to solve?*",
+        "Reach us directly",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "AI Products & Services"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='AI Products & Services']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "AI Education"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='AI Education']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Technical Advisory"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Technical Advisory']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Technology Delivery"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Technology Delivery']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Federal"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Federal']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Careers"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Careers']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Something else"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Something else']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Your name*",
+            "Jane Doe",
+            "name"
+          ],
+          "region": "main",
+          "form": "AI Products & Services",
+          "required": true,
+          "xpath": "//input[@id='contact-name']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email*",
+            "jane@example.com",
+            "email"
+          ],
+          "region": "main",
+          "form": "AI Products & Services",
+          "required": true,
+          "xpath": "//input[@id='contact-email']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Company",
+            "e.g. your company name",
+            "organization"
+          ],
+          "region": "main",
+          "form": "AI Products & Services",
+          "xpath": "//input[@id='contact-org']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Your role",
+            "e.g. COO, program lead, engineer",
+            "role"
+          ],
+          "region": "main",
+          "form": "AI Products & Services",
+          "xpath": "//input[@id='contact-role']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "What problem are you trying to solve?*",
+            "The workflow, the volume, what \"better\" looks like...",
+            "message"
+          ],
+          "region": "main",
+          "form": "AI Products & Services",
+          "required": true,
+          "xpath": "//textarea[@id='contact-message']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Send message"
+          ],
+          "region": "main",
+          "form": "AI Products & Services",
+          "xpath": "//button[normalize-space()='Send message']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/lets-talk/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /who-we-are/leadership/laura-macintyre/, shares 69% of its layout and 31% of its headings)"
+      }
+    },
+    {
+      "id": "services-ai",
+      "name": "ServicesAiPage",
+      "urlPatterns": [
+        "/services/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/services/ai/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "AI Products & Services | PhoenixTeam",
+      "sharedHeadings": [
+        "From AI ambition to production reality.",
+        "From prototype to governed production.",
+        "AI Workflow Automation",
+        "From business idea to production.",
+        "Where AI initiatives stall.",
+        "Architecture Decisions",
+        "Our way through: the Innovation Pipeline.",
+        "BuildKit & Standards",
+        "The pipeline ships the system. The framework carries the people.",
+        "Built for mortgage. Grounded in the workforce.",
+        "AI delivery under audited controls.",
+        "Claude Partner Network",
+        "SOC 2 Type II",
+        "CMMI Development Maturity Level 3",
+        "ISO 9001:2015",
+        "MISMO Certified Consultant",
+        "Salesforce Consultant",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "tab",
+          "words": [
+            "AI Workflow Automation"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='AI Workflow Automation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "AI Adoption Acceleration"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='AI Adoption Acceleration']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "AI Strategy and Roadmap Development"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='AI Strategy and Roadmap Development']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "AI Learning Labs and Experimentation"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='AI Learning Labs and Experimentation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "AI Product and Platform Advisory Services"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'AI Product and Platform Advisory')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Responsible AI Governance and Policy Support"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Responsible AI Governance and Policy')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "01 Idea to Workflow: A clever prompt is not a process. On...",
+            "01Idea to Workflow"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='01Idea to Workflow']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "02 Architecture Decisions: Model choice, orchestration, a...",
+            "02Architecture Decisions"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='02Architecture Decisions']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "03 Brand & UX Alignment: The experience has to sound and...",
+            "03Brand & UX Alignment"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='03Brand & UX Alignment']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "04 Reliable Behavior: Production AI must behave the same...",
+            "04Reliable Behavior"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='04Reliable Behavior']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "05 Data & API Integration: Real value means wiring into y...",
+            "05Data & API Integration"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='05Data & API Integration']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "06 Codebase Readiness: Prototype code is rarely productio...",
+            "06Codebase Readiness"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='06Codebase Readiness']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "07 Security Controls: Access controls, secrets, audit tra...",
+            "07Security Controls"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='07Security Controls']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "08 Compliance (SOC 2+): Evidence, policies, and controls...",
+            "08Compliance (SOC 2+)"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='08Compliance (SOC 2+)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "09 Mortgage Guardrails: Fair lending, RESPA, TILA, UDAAP....",
+            "09Mortgage Guardrails"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='09Mortgage Guardrails']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "10 Testing & Validation: Golden datasets, regression eval...",
+            "10Testing & Validation"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='10Testing & Validation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "11 Tiered Knowledge Base: Your guidelines, overlays, and...",
+            "11Tiered Knowledge Base"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='11Tiered Knowledge Base']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "12 Cost & Performance: Token spend, latency, and model ro...",
+            "12Cost & Performance"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='12Cost & Performance']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "13 Governance at Scale: Clear ownership, change control,...",
+            "13Governance at Scale"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='13Governance at Scale']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "14 Human Factors: Adoption is a people problem. Training,...",
+            "14Human Factors"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='14Human Factors']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "15 Drift Detection: Models, guidelines, and markets all c...",
+            "15Drift Detection"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='15Drift Detection']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "16 Transparency & Auditability: Every answer traceable to...",
+            "16Transparency & Auditability"
+          ],
+          "region": "main",
+          "xpath": "//*[local-name()='g'][normalize-space()='16Transparency & Auditability']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "STAGE 01 Build"
+          ],
+          "region": "main",
+          "xpath": "//button[@id='pipeline-tab-build']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "STAGE 02 Deploy"
+          ],
+          "region": "main",
+          "xpath": "//button[@id='pipeline-tab-deploy']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "STAGE 03 Scale"
+          ],
+          "region": "main",
+          "xpath": "//button[@id='pipeline-tab-scale']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Understand Foundations, Boundaries & Shared Language"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'UnderstandFoundations, Boundaries &')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Discover Use Cases, Constraints & Opportunity Mapping"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'DiscoverUse Cases, Constraints &')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Reimagine Process Redesign for an AI-Accelerated Future"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'ReimagineProcess Redesign for an')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pilot Experimentation, Validation & Value Proof"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'PilotExperimentation, Validation & Value')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Prove Reliability, Governance & Enterprise Trust"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'ProveReliability, Governance &')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Scale Productionization, Operating Model & Agentic Execution"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'ScaleProductionization, Operating Model')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Adapt Continuous Improvement & Strategic Renewal"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'AdaptContinuous Improvement & Strategic')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show stage 1: Understand"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Show stage 1: Understand']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show stage 2: Discover"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Show stage 2: Discover']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show stage 3: Reimagine"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Show stage 3: Reimagine']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show stage 4: Pilot"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Show stage 4: Pilot']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show stage 5: Prove"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Show stage 5: Prove']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show stage 6: Scale"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Show stage 6: Scale']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Show stage 7: Adapt"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Show stage 7: Adapt']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Mortgage-Native AI AI grounded in how loans actually move..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='wp-tab-0']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Practitioners, Not Generalists People who speak mortgage..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='wp-tab-1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Education First Adoption fails at the people layer, not t..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='wp-tab-2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "We Build, Not Just Advise Our own AI products run in prod..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='wp-tab-3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Regulated-Industry Discipline CMMI Level 3, ISO certified..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='wp-tab-4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/ai/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /services/technical-advisory/, shares 66% of its layout and 38% of its headings)"
+      }
+    },
+    {
+      "id": "ai-education",
+      "name": "AiEducationPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/ai-education/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "AI Education & Workshops | PhoenixTeam",
+      "sharedHeadings": [
+        "The mortgage industry learns AI here.",
+        "Education Courses",
+        "AI Speed Learning",
+        "Essentials for Executives: Artificial Intelligence in Mortgage Finance",
+        "AI Mortgage Practitioner",
+        "AI Workshops",
+        "Six-Month Series",
+        "Tailored Workshops",
+        "AI for Compliance & Risk Professionals",
+        "Bootcamps & Private",
+        "Three-Day Bootcamp",
+        "Five-Day Bootcamp",
+        "Private Workshops",
+        "The human has the vision.",
+        "Leverage, not just speed",
+        "The human holds the vision",
+        "Expertise stays explicit",
+        "Closest to the problem",
+        "The MBA's first GenAI education partner.",
+        "Professional Speaking Engagements",
+        "AI Strategy in a Box",
+        "AI Transformation Scenario",
+        "Turn uncertainty into clarity. Turn AI into momentum.",
+        "PhoenixTeam's AI Exchange Event",
+        "What we explore",
+        "What Others Are Saying",
+        "Workshop Topics & Activities",
+        "Taught by a certified operator, not a training vendor.",
+        "Claude Partner Network",
+        "SOC 2 Type II",
+        "ISO 9001:2015",
+        "MISMO Certified Consultant",
+        "CMMI Development Maturity Level 3",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 1,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/ai-education/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/inside-phoenixteam-value-engineer-bootcamp",
+            "href": "/news-and-insights/inside-phoenixteam-value-engineer-bootcamp",
+            "text": "Read the full story"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='AI education courses']//div[h3[normalize-space()='AI Speed Learning']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='AI education courses']//div[div/span[normalize-space()='90 minutes']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='AI education courses']//div[h3[normalize-space()='AI Mortgage Practitioner']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Scroll to next cards"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='courses']//button[@aria-label='Scroll to next cards']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='AI workshop formats']//div[h3[normalize-space()='Six-Month Series']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='AI workshop formats']//div[h3[normalize-space()='Tailored Workshops']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='AI workshop formats']//div[h3[normalize-space()='AI for Compliance & Risk Professionals']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='Bootcamps and private formats']//div[div/div/h3[normalize-space()='Three-Day Bootcamp']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='Bootcamps and private formats']//div[div/div/h3[normalize-space()='Five-Day Bootcamp']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "More details"
+          ],
+          "region": "main",
+          "xpath": "//div[@aria-label='Bootcamps and private formats']//div[div/div/h3[normalize-space()='Private Workshops']]//button[normalize-space()='More details']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Scroll to next cards"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='bootcamps']//button[@aria-label='Scroll to next cards']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "AI Transformation Scenario SCENARIO"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'AI Transformation ScenarioScenarioA')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Reimagining Mortgage WORKING SESSION"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Reimagining MortgageWorking SessionA')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "AI Use Case Roadmapping HANDS-ON"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'AI Use Case RoadmappingHands-OnA')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "AI Risk Guardrails INTERACTIVE EXERCISE"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'AI Risk GuardrailsInteractive ExerciseAn')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Examining AI Failures STRUCTURED REVIEW"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Examining AI FailuresStructured ReviewA')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Workforce Upskilling PRACTICAL SESSION"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Workforce UpskillingPractical SessionA')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Mortgage AI Flashcards & Use Case Cards REFERENCE CARDS"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Mortgage AI Flashcards & Use Case')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause automatic rotation",
+            "PAUSE"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Pause automatic rotation']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/ai-education/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /services/technical-advisory/, shares 48% of its layout and 24% of its headings)"
+      }
+    },
+    {
+      "id": "phoenix-burst",
+      "name": "PhoenixBurstPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/phoenix-burst/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Phoenix Burst | Connected Enterprise Intelligence",
+      "sharedHeadings": [
+        "Connected enterprise intelligence into managed change.",
+        "What Burst does for your team.",
+        "How Burst turns a change into finished work.",
+        "Operations Insights",
+        "Compliance Automation",
+        "Rapid “Bespoke” Solutions",
+        "Transition Management",
+        "Autonomous SDLC",
+        "Automate the work. Keep the judgment.",
+        "A year of regulatory change in 37 hours.",
+        "Federal rules: minutes, not hours",
+        "State bills include the homework",
+        "Burst tells you what matters, not just what changed.",
+        "Know which teams a change will reach before it takes effect.",
+        "Regulatory Sources, watched daily",
+        "Citations, enriched for the gate",
+        "Burst drafts the work. Your team approves it.",
+        "Controls stay evidenced, not just updated.",
+        "Borrower letters right the first time.",
+        "Your letters, prompts, and procedures, saved and ready to reuse.",
+        "Every letter template your team uses, in one place.",
+        "The prompts that run your reports and alerts.",
+        "The Burst roadmap: where each track is today, and where it lands.",
+        "SOC 2 Type II audited.",
+        "Two years of Tech Excellence.",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 1,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/phoenix-burst/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-achieves-soc-2-type-ii-compliance-for-phoenix-burst",
+            "href": "/news-and-insights/phoenixteam-achieves-soc-2-type-ii-compliance-for-phoenix-burst",
+            "text": "Read the SOC 2 Type II announcement"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "tab",
+          "words": [
+            "Operations Insights Connect disparate data sources and pr..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='burst-area-tab-operations-insights']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Compliance Automation Continuously translate regulatory c..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='burst-area-tab-compliance-automation']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Autonomous SDLC Self-documenting framework operating insi..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='burst-area-tab-autonomous-sdlc']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Transition Management Actively manage the organization fr..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='burst-area-tab-transition-management']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Rapid “Bespoke” Solutions Deliver targeted solutions when..."
+          ],
+          "region": "main",
+          "xpath": "//button[@id='burst-area-tab-rapid-solutions']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='burst-area-panel-operations-insights']//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='conductor']//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='intelligence']//div[div/div/div[normalize-space()='BurstActive Changes Impact Map']]//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='intelligence']//div[div/div/span[normalize-space()='Add source']]//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='intelligence']//div[div/div/span[normalize-space()='Review']]//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='change-work']//div[div/div/span[normalize-space()='Approve all (19)']]//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='change-work']//div[div/div/span[normalize-space()='Add letter']]//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='libraries']//div[div/div/span[normalize-space()='Section All']]//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Pause the animation"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='libraries']//div[div/div/span[normalize-space()='Add new prompt']]//button[@aria-label='Pause the animation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/phoenix-burst/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /services/technical-advisory/, shares 44% of its layout and 13% of its headings)"
+      }
+    },
+    {
+      "id": "federal",
+      "name": "FederalPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/federal/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Federal Capabilities | PhoenixTeam",
+      "sharedHeadings": [
+        "We serve the regulated,and the regulator.",
+        "Modernizing critical home loan technology for Veterans.",
+        "Built for federal missions. Proven in regulated markets.",
+        "Core Technology Delivery",
+        "AI Products & Services",
+        "Technical Advisory",
+        "AI Education",
+        "Your mission. AI that serves it.",
+        "Federal AI & Technology Transformation",
+        "Responsible, Compliance-Driven AI",
+        "Human-Centered AI Adoption",
+        "Prime work, still in production.",
+        "Prime scale, small-business paper.",
+        "Enterprise solutions, not staff augmentation.",
+        "The regulated and the regulator.",
+        "The engagements behind the record.",
+        "Certifications & contract vehicles, in one place.",
+        "Contract vehicles.",
+        "PhoenixTeam",
+        "Blue Phoenix",
+        "Blue Phoenix: Our Mentor-Protégé Joint Venture.",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 1,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/federal/",
+            "to": "https://www.phoenixoutcomes.com/news-and-insights/blue-phoenix-awarded-215-million-va-loan-guaranty-devsecops-contract-a-phoenixteam-and-blue-bay-mentor-protege-joint-venture",
+            "href": "/news-and-insights/blue-phoenix-awarded-215-million-va-loan-guaranty-devsecops-contract-a-phoenixteam-and-blue-bay-mentor-protege-joint-venture",
+            "text": "Read the announcement"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "SPECIAL ITEM NUMBERS (SINS)"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='contract-vehicles']//div[h3[normalize-space()='PhoenixTeam']]//button[normalize-space()='Special Item Numbers (SINs)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS)"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='contract-vehicles']//div[h3[normalize-space()='PhoenixTeam']]//button[starts-with(normalize-space(),'North American Industry Classification')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "WOMAN-OWNED SMALL BUSINESS (WOSB)"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Woman-Owned Small Business (WOSB)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "ISO 9001 CERTIFIED & CMMI DEV ML 3"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='ISO 9001 Certified & CMMI Dev ML 3']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "SPECIAL ITEM NUMBERS (SINS)"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='contract-vehicles']//div[h3[normalize-space()='Blue Phoenix']]//button[normalize-space()='Special Item Numbers (SINs)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS)"
+          ],
+          "region": "main",
+          "xpath": "//section[@id='contract-vehicles']//div[div/ul/li[normalize-space()='541519 Other Computer Related Services']]//button[starts-with(normalize-space(),'North American Industry Classification')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESS (SDVOSB)"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Service-Disabled Veteran-Owned Small')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "MINORITY BUSINESS ENTERPRISE (MBE)"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Minority Business Enterprise (MBE)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/federal/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /who-we-are/leadership/laura-macintyre/, shares 42% of its layout and 19% of its headings)"
+      }
+    },
+    {
+      "id": "human-futures",
+      "name": "HumanFuturesPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/human-futures/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Human Futures | PhoenixTeam",
+      "sharedHeadings": [
+        "The next generationwill inherit a different world.We can prepare them for it.",
+        "Twelve weeks in, they were shipping tools a company now runs on.",
+        "Learning by doing, from day one",
+        "Mission",
+        "Internship",
+        "Needle Movers",
+        "Builders",
+        "Creators",
+        "Explorers",
+        "Build. Feedback. Rebuild. Ship.",
+        "Build",
+        "Feedback",
+        "Rebuild",
+        "Ship",
+        "Real growth, and a path forward.",
+        "From the build floor",
+        "Showcase Showdown",
+        "AI Builder Week",
+        "Inside AI Builder Week",
+        "Real skills",
+        "Real projects",
+        "Real confidence",
+        "Inside Showcase Showdown",
+        "Present the work",
+        "Answer the room",
+        "Awards",
+        "Ready to see the whole program?",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /guide-me/, shares 42% of its layout and 12% of its headings)"
+      }
+    },
+    {
+      "id": "next-chapter",
+      "name": "NextChapterPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/next-chapter/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "The Next Chapter | PhoenixTeam",
+      "sharedHeadings": [
+        "The next chapter.",
+        "Our direction",
+        "What we are betting on.",
+        "Servicing modernization.",
+        "Autonomous SDLC.",
+        "Federal innovation.",
+        "Human Futures.",
+        "Ways of working.",
+        "Three horizons.",
+        "Build the next chapter with us.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /guide-me/, shares 46% of its layout and 25% of its headings)"
+      }
+    },
+    {
+      "id": "testimonials",
+      "name": "TestimonialsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/testimonials/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Testimonials | PhoenixTeam",
+      "sharedHeadings": [
+        "In their own words",
+        "The work behind the words",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /terms-of-use/, /events/, /who-we-are/leadership/ and 3 more, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "service",
+      "name": "ServicePage",
+      "urlPatterns": [
+        "/services/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/services/technical-advisory/",
+        "https://www.phoenixoutcomes.com/services/technology-delivery/"
+      ],
+      "repeated": true,
+      "knownUrls": 4,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "MISMO Certified Consultant",
+        "CMMI Development Maturity Level 3",
+        "ISO 9001:2015",
+        "SOC 2 Type II",
+        "Claude Partner Network",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "tab",
+          "words": [
+            "Implementation and Conversion Support"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Implementation and Conversion Support']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technical-advisory/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Product Management"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Product Management']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technical-advisory/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Technology Strategy and Simplification"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Technology Strategy and Simplification']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technical-advisory/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "MISMO Data Services"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='MISMO Data Services']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technical-advisory/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Business Process Design and Redesign"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Business Process Design and Redesign']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technical-advisory/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Lean and Agile Training"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Lean and Agile Training']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technical-advisory/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Development, Modernization, and Enhancement"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Development, Modernization, and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technology-delivery/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Development, Security, and Operations (DevSecOps)"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Development, Security, and Operations')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technology-delivery/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Operations and Maintenance"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Operations and Maintenance']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technology-delivery/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Application Programming Interface (API) Development"
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Application Programming Interface (API)')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technology-delivery/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Data Migration and Conversion"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Data Migration and Conversion']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technology-delivery/"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Quality Management and Engineering"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Quality Management and Engineering']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/services/technology-delivery/"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 2 pages read look alike (layout 87% the same, headings 42%) and share the address pattern /services/*; joined by: the layouts agree, with some headings shared (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "events",
+      "name": "EventsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/events/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Events & Community | PhoenixTeam",
+      "sharedHeadings": [
+        "Meet us where the industry gathers",
+        "ISACA Leading Tech: A SheLeadsTech Event",
+        "AWS re:Invent",
+        "MISMO Winter Summit",
+        "AmeriCatalyst: Relevance — Reimagining the American Dream",
+        "TRON Networking at MBA Servicing",
+        "MBA's Servicing Solutions Conference and Expo",
+        "NVIDIA GTC",
+        "ICE Experience 2027",
+        "MBA Secondary and Capital Markets Conference 2027",
+        "MISMO Spring Summit",
+        "MISMO Fall Summit",
+        "FiveStar Conference",
+        "Barclays Conference 2027",
+        "MBA Compliance and Risk Management Conference",
+        "MBA Annual Convention and Expo 2027",
+        "Invite PhoenixTeam to speak at your event",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Coming Soon"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//main[@id='main-content']//div[div/h2[normalize-space()='TRON Networking at MBA Servicing']]//button[normalize-space()='Coming Soon']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/events/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Coming Soon"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//main[@id='main-content']//div[div/h2[normalize-space()='Barclays Conference 2027']]//button[normalize-space()='Coming Soon']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.phoenixoutcomes.com/events/"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /terms-of-use/, /testimonials/, /who-we-are/leadership/ and 3 more, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "who-we-are",
+      "name": "WhoWeArePage",
+      "urlPatterns": [
+        "/who-we-are/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/who-we-are/leadership/"
+      ],
+      "repeated": true,
+      "knownUrls": 2,
+      "titlePattern": "{name} | PhoenixTeam",
+      "sharedHeadings": [
+        "The operators directing the vision.",
+        "Built on trust before it was built on business.",
+        "Tela G. Mathias",
+        "Tanya Brennan",
+        "Tom Westerlind",
+        "Lindsay Bennett",
+        "Becky Griswold",
+        "Laura MacIntyre",
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "profile",
+          "count": 3,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/who-we-are/leadership/",
+            "to": "https://www.phoenixoutcomes.com/who-we-are/leadership/tanya-brennan",
+            "href": "/who-we-are/leadership/tanya-brennan",
+            "text": "Tanya Brennan Chief Executive Officer | Managing Partner View Bio"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-pattern",
+        "says": "one page read, and 1 more address found like it (/who-we-are/*): it stands for them"
+      }
+    },
+    {
+      "id": "profile",
+      "name": "ProfilePage",
+      "urlPatterns": [
+        "/who-we-are/leadership/*"
+      ],
+      "pages": [
+        "https://www.phoenixoutcomes.com/who-we-are/leadership/laura-macintyre/",
+        "https://www.phoenixoutcomes.com/who-we-are/leadership/tom-westerlind/",
+        "https://www.phoenixoutcomes.com/who-we-are/leadership/tanya-brennan/"
+      ],
+      "repeated": true,
+      "knownUrls": 9,
+      "titlePattern": "{name} | Leadership | PhoenixTeam",
+      "sharedHeadings": [
+        "Let's talk about what's next.",
+        "What We Do",
+        "Industries",
+        "Resources",
+        "Company"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "profile",
+          "count": 1,
+          "example": {
+            "from": "https://www.phoenixoutcomes.com/who-we-are/leadership/tanya-brennan/",
+            "to": "https://www.phoenixoutcomes.com/who-we-are/leadership/tom-westerlind",
+            "href": "/who-we-are/leadership/tom-westerlind",
+            "text": "Next Tom Westerlind"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 3 pages read look alike (layout 100% the same, headings 100%) and share the address pattern /who-we-are/leadership/*; joined by: the headings agree, with some layout shared (3 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "headings-agree",
+            "pairs": 3
+          }
+        ]
+      }
+    }
+  ],
+  "skipped": [],
+  "userAgent": "Mozilla/5.0 (compatible; SuiteBuilder/1.0; +https://github.com/Ghost-in-the-Kernel-Labs/Ghost-in-the-Kernel-Labs-suite-builder-docs)",
+  "findings": [
+    {
+      "code": "SITE-33",
+      "severity": "major",
+      "title": "14 links to other sites lead nowhere: the pages are gone",
+      "where": [
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4640412/Phoenix-Oversight-Group-LLC/Senior-Java-Developer",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4636293/Phoenix-Oversight-Group-LLC/Salesforce-Data-Cloud-Agentforce-Architect",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4633880/Phoenix-Oversight-Group-LLC/Salesforce-Product-Manager---Agentforce-Data-Cloud",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4629644/Phoenix-Oversight-Group-LLC/Generative-AI-Trainer",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4629575/Phoenix-Oversight-Group-LLC/Engineering-Manager",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4629473/Phoenix-Oversight-Group-LLC/AWS-DevSecOps-Engineer",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4624944/Phoenix-Oversight-Group-LLC/Senior-Technical-Writer",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4622539/Phoenix-Oversight-Group-LLC/Business-Analyst",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4622441/Phoenix-Oversight-Group-LLC/DevSecOps-Engineer---Infrastructure",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4622405/Phoenix-Oversight-Group-LLC/AI-Quality-Engineer",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4622374/Phoenix-Oversight-Group-LLC/AI-Value-Engineer",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4622337/Phoenix-Oversight-Group-LLC/Product-Manager",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4622227/Phoenix-Oversight-Group-LLC/AWS-Infrastructure-Engineer",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://recruiting.paylocity.com/recruiting/jobs/All/20687ad0-2fa2-4254-8387-3362e5f0726a/Phoenix-Oversight-Group-LLC",
+          "says": "answered 404; linked from /careers/",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/careers/"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        }
+      ],
+      "why": "Sites move and close: a visitor who follows one of these links meets an error page, or nothing at all, on someone else's site, and leaves thinking less of this one.",
+      "fix": "Point each link at where the page lives now, or take it out. The suite's link report asks every one again on each run, and fails when one that answered stops."
+    },
+    {
+      "code": "SITE-21",
+      "severity": "major",
+      "title": "The site's own scripts throw 3 errors on 3 pages",
+      "where": [
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/human-futures-year-one-recap/",
+          "says": "1 error: Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev e"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/lets-talk/",
+          "says": "1 error: Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev e"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/human-futures/",
+          "says": "1 error: Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev e"
+        }
+      ],
+      "why": "An error nothing catches stops the script that threw it: whatever it was doing (a form's checks, a cart, tracking) is left undone. Visitors never report it; it is seen only in the browser's console.",
+      "fix": "Open the page with the browser's developer tools, read the console, and fix each error at the line it names."
+    },
+    {
+      "code": "SITE-03",
+      "severity": "minor",
+      "title": "53 of the site's own links redirect before they arrive (each only to add or drop a trailing slash)",
+      "where": [
+        {
+          "url": "https://www.phoenixoutcomes.com/terms-of-use",
+          "says": "301 to /terms-of-use/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/insights",
+          "says": "301 to /insights/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/the-scary-and-very-odd-thing-that-happened-last-week",
+          "says": "301 to /news-and-insights/the-scary-and-very-odd-thing-that-happened-last-week/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/the-ai-futures-program-a-13-week-program-for-high-school-seniors-and-college-students",
+          "says": "301 to /news-and-insights/the-ai-futures-program-a-13-week-program-for-high-school-seniors-and-college-students/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/human-futures-year-one-recap",
+          "says": "301 to /news-and-insights/human-futures-year-one-recap/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/industries/mortgage-banking-consumer-lending",
+          "says": "301 to /industries/mortgage-banking-consumer-lending/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/careers",
+          "says": "301 to /careers/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/guide-me",
+          "says": "301 to /guide-me/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/lets-talk",
+          "says": "301 to /lets-talk/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/industries/housing-finance-secondary-market",
+          "says": "301 to /industries/housing-finance-secondary-market/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/services/ai",
+          "says": "301 to /services/ai/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/ai-education",
+          "says": "301 to /ai-education/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/phoenix-burst",
+          "says": "301 to /phoenix-burst/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/federal",
+          "says": "301 to /federal/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/industries/federal-housing-veterans-programs",
+          "says": "301 to /industries/federal-housing-veterans-programs/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/human-futures",
+          "says": "301 to /human-futures/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/next-chapter",
+          "says": "301 to /next-chapter/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/testimonials",
+          "says": "301 to /testimonials/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/services/technical-advisory",
+          "says": "301 to /services/technical-advisory/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/events",
+          "says": "301 to /events/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/services/technology-delivery",
+          "says": "301 to /services/technology-delivery/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/who-we-are/leadership",
+          "says": "301 to /who-we-are/leadership/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/who-we-are/leadership/laura-macintyre",
+          "says": "301 to /who-we-are/leadership/laura-macintyre/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/who-we-are/leadership/tom-westerlind",
+          "says": "301 to /who-we-are/leadership/tom-westerlind/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/who-we-are/leadership/tanya-brennan",
+          "says": "301 to /who-we-are/leadership/tanya-brennan/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-launches-human-futures-first-cohort-begins-hands-on-ai-and-career-readiness-work",
+          "says": "301 to /news-and-insights/phoenixteam-launches-human-futures-first-cohort-begins-hands-on-ai-and-career-readiness-work/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/eleven-reasons-why-the-mortgage-industry-isnt-further-along-with-genai-adoption",
+          "says": "301 to /news-and-insights/eleven-reasons-why-the-mortgage-industry-isnt-further-along-with-genai-adoption/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/tela-mathias-named-housingwire-vanguard-for-leadership-in-mortgage-and-ai",
+          "says": "301 to /news-and-insights/tela-mathias-named-housingwire-vanguard-for-leadership-in-mortgage-and-ai/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/the-homogenization-of-everything",
+          "says": "301 to /news-and-insights/the-homogenization-of-everything/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/continuous-mortgage-innovation-pipeline",
+          "says": "301 to /news-and-insights/continuous-mortgage-innovation-pipeline/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/blue-phoenix-awarded-215-million-va-loan-guaranty-devsecops-contract-a-phoenixteam-and-blue-bay-mentor-protege-joint-venture",
+          "says": "301 to /news-and-insights/blue-phoenix-awarded-215-million-va-loan-guaranty-devsecops-contract-a-phoenixteam-and-blue-bay-mentor-protege-joint-venture/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/inside-phoenixteam-value-engineer-bootcamp",
+          "says": "301 to /news-and-insights/inside-phoenixteam-value-engineer-bootcamp/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/process-and-technical-hurdles-to-achieve-the-mortgage-ai-future",
+          "says": "301 to /news-and-insights/process-and-technical-hurdles-to-achieve-the-mortgage-ai-future/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-achieves-soc-2-type-ii-compliance-for-phoenix-burst",
+          "says": "301 to /news-and-insights/phoenixteam-achieves-soc-2-type-ii-compliance-for-phoenix-burst/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-awarded-49m-contract-to-modernize-usdas-guaranteed-underwriting-system-expanding-rural-homeownership",
+          "says": "301 to /news-and-insights/phoenixteam-awarded-49m-contract-to-modernize-usdas-guaranteed-underwriting-system-expanding-rural-homeownership/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/the-economics-of-ai-part-1---cost",
+          "says": "301 to /news-and-insights/the-economics-of-ai-part-1---cost/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/an-impassioned-plea-for-ai-ready-mortgage-policy-data",
+          "says": "301 to /news-and-insights/an-impassioned-plea-for-ai-ready-mortgage-policy-data/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/open-source-and-agentic-development",
+          "says": "301 to /news-and-insights/open-source-and-agentic-development/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/the-role-of-mortgage-regulators-in-generative-ai",
+          "says": "301 to /news-and-insights/the-role-of-mortgage-regulators-in-generative-ai/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/the-case-for-bare-metal-ai",
+          "says": "301 to /news-and-insights/the-case-for-bare-metal-ai/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-approved-as-dod-skillbridge-partner-to-help-active-duty-military-service-members-re-enter-civilian-workforce",
+          "says": "301 to /news-and-insights/phoenixteam-approved-as-dod-skillbridge-partner-to-help-active-duty-military-service-members-re-enter-civilian-workforce/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/from-vision-to-value-how-ai-is-taking-shape-in-mortgage",
+          "says": "301 to /news-and-insights/from-vision-to-value-how-ai-is-taking-shape-in-mortgage/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/the-evolution-of-service-level-agreements-why-ai-evaluations-matter-in-mortgage",
+          "says": "301 to /news-and-insights/the-evolution-of-service-level-agreements-why-ai-evaluations-matter-in-mortgage/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-earns-inc-best-workplaces-recognition-for-people-first-culture",
+          "says": "301 to /news-and-insights/phoenixteam-earns-inc-best-workplaces-recognition-for-people-first-culture/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/ten-not-very-easy-steps-to-achieve-ai-workforce-transformation",
+          "says": "301 to /news-and-insights/ten-not-very-easy-steps-to-achieve-ai-workforce-transformation/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/phoenixteam-names-laura-macintyre-as-partner",
+          "says": "301 to /news-and-insights/phoenixteam-names-laura-macintyre-as-partner/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/defining-the-word-done-the-phoenix-way",
+          "says": "301 to /news-and-insights/defining-the-word-done-the-phoenix-way/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/nothing-we-make-is-real-everything-we-make-is-real",
+          "says": "301 to /news-and-insights/nothing-we-make-is-real-everything-we-make-is-real/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/what-does-the-infamous-mit-study-really-mean-to-us-in-mortgage",
+          "says": "301 to /news-and-insights/what-does-the-infamous-mit-study-really-mean-to-us-in-mortgage/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/gtc-depression-jensens-keynote",
+          "says": "301 to /news-and-insights/gtc-depression-jensens-keynote/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/getting-started-with-vibe-coding-in-four-steps",
+          "says": "301 to /news-and-insights/getting-started-with-vibe-coding-in-four-steps/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/agentic-ai-in-financial-services",
+          "says": "301 to /news-and-insights/agentic-ai-in-financial-services/"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/news-and-insights/251-page-compliance-change-in-hours-not-months",
+          "says": "301 to /news-and-insights/251-page-compliance-change-in-hours-not-months/"
+        }
+      ],
+      "why": "Every click on one of these links costs an extra round trip before the page starts loading, and search engines see one page at two addresses.",
+      "fix": "Link to each page's final address (with or without its trailing slash, as the server serves it)."
+    },
+    {
+      "code": "SITE-24",
+      "severity": "minor",
+      "title": "3 security headers no page sends",
+      "where": [
+        {
+          "url": "https://www.phoenixoutcomes.com/",
+          "says": "no page of the site sends Content-Security-Policy (which scripts may run)"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/",
+          "says": "no page of the site sends X-Frame-Options or frame-ancestors (another site cannot frame it to trick a click)"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/",
+          "says": "no page of the site sends X-Content-Type-Options: nosniff"
+        }
+      ],
+      "why": "Each header closes a door attackers use (a downgrade to http, a script slipped in, the site framed in another to trick a click). Security reviews and compliance checklists ask for them, and they cost a line of server configuration.",
+      "fix": "Add the missing headers in the web server or the CDN (one setting each), starting with Strict-Transport-Security."
+    },
+    {
+      "code": "SITE-28",
+      "severity": "minor",
+      "title": "The sitemap lists 5 addresses that are broken or moved",
+      "where": [
+        {
+          "url": "https://www.phoenixoutcomes.com/sitemap.xml",
+          "says": "/terms-of-use redirects"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/sitemap.xml",
+          "says": "/services/ai redirects"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/sitemap.xml",
+          "says": "/services/technology-delivery redirects"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/sitemap.xml",
+          "says": "/services/technical-advisory redirects"
+        },
+        {
+          "url": "https://www.phoenixoutcomes.com/sitemap.xml",
+          "says": "/ai-education redirects"
+        }
+      ],
+      "why": "A sitemap tells search engines every page to index, and how fresh each is; without one they find pages only by following links, and one listing wrong addresses spends their visits on errors.",
+      "fix": "Publish /sitemap.xml listing each page's final address (most site builders and CMSs have a setting or plugin for it), and name it in robots.txt (Sitemap: ...)."
+    },
+    {
+      "code": "SITE-29",
+      "severity": "minor",
+      "title": "The site has no security.txt: someone who finds a hole has no way to report it",
+      "where": [
+        {
+          "url": "https://www.phoenixoutcomes.com/.well-known/security.txt",
+          "says": "answered 404"
+        }
+      ],
+      "why": "Researchers who find a security problem look for /.well-known/security.txt to know whom to tell (RFC 9116); without it they may not report it, or report it publicly.",
+      "fix": "Publish /.well-known/security.txt with a Contact line (an email address or a form) and an Expires line."
+    },
+    {
+      "code": "SITE-31",
+      "severity": "minor",
+      "title": "The site answers at two names, www.phoenixoutcomes.com and phoenixoutcomes.com, neither sending visitors to the other",
+      "where": [
+        {
+          "url": "https://phoenixoutcomes.com/",
+          "says": "answered 200 itself",
+          "offSite": true
+        }
+      ],
+      "why": "Search engines see every page twice, at two addresses, and split its ranking between them; links and shares point at both.",
+      "fix": "Pick one name and redirect the other to it with a 301 (one setting in most hosts and CDNs): https://phoenixoutcomes.com/ to https://www.phoenixoutcomes.com/, say."
+    }
+  ],
+  "siteControls": [
+    {
+      "kind": "button",
+      "words": [
+        "What We Do"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='root']//nav[a[normalize-space()='Guide me']]//button[normalize-space()='What We Do']",
+      "stability": "OK",
+      "pages": 54,
+      "seenOn": "https://www.phoenixoutcomes.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Industries"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='root']//nav[a[normalize-space()='Guide me']]//button[normalize-space()='Industries']",
+      "stability": "OK",
+      "pages": 54,
+      "seenOn": "https://www.phoenixoutcomes.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Resources"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='root']//nav[a[normalize-space()='Guide me']]//button[normalize-space()='Resources']",
+      "stability": "OK",
+      "pages": 54,
+      "seenOn": "https://www.phoenixoutcomes.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Company"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='root']//nav[a[normalize-space()='Guide me']]//button[normalize-space()='Company']",
+      "stability": "OK",
+      "pages": 54,
+      "seenOn": "https://www.phoenixoutcomes.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Copy Link"
+      ],
+      "region": "main",
+      "xpath": "//button[@title='Copy Link']",
+      "stability": "Strong",
+      "pages": 31,
+      "seenOn": "https://www.phoenixoutcomes.com/news-and-insights/the-scary-and-very-odd-thing-that-happened-last-week/"
+    }
+  ]
+}

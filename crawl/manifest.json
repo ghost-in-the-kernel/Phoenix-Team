@@ -1,0 +1,34 @@
+{
+  "tool": "suite-builder",
+  "version": "1.39.0",
+  "build": {
+    "commit": "1481bc99cc179dd7d9c57151a46a5d27f17520df",
+    "branch": "main"
+  },
+  "framework": "playwright",
+  "generatedAt": "2026-11-05T13:38:32.297Z",
+  "command": "suite-builder build https://www.phoenixoutcomes.com/ --playwright",
+  "templates": "crawl/www.phoenixoutcomes.com.templates.json",
+  "crawl": "crawl/www.phoenixoutcomes.com.crawl.json",
+  "crawlFileSaved": "2026-11-05T13:38:31.418Z",
+  "accounts": [
+    {
+      "role": "user",
+      "file": "secrets/user.login",
+      "environment": [
+        "SUITE_USER_USERNAME",
+        "SUITE_USER_PASSWORD"
+      ],
+      "docked": "<Suite Builder's secrets folder, DOCK.md's last line>/<site>/user.login"
+    },
+    {
+      "role": "admin",
+      "file": "secrets/admin.login",
+      "environment": [
+        "SUITE_ADMIN_USERNAME",
+        "SUITE_ADMIN_PASSWORD"
+      ],
+      "docked": "<Suite Builder's secrets folder, DOCK.md's last line>/<site>/admin.login"
+    }
+  ]
+}

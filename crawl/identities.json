@@ -1,0 +1,253 @@
+{
+  "tool": "suite-builder",
+  "ledgerVersion": 1,
+  "entities": [
+    {
+      "id": "type:/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "HomePage",
+      "patterns": [
+        "/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/terms-of-use/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "TermsOfUsePage",
+      "patterns": [
+        "/terms-of-use/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/insights/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "InsightsPage",
+      "patterns": [
+        "/insights/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/news-and-insights/*",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "ArticlePage",
+      "patterns": [
+        "/news-and-insights/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/industries/*",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "IndustryPage",
+      "patterns": [
+        "/industries/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/careers/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "CareersPage",
+      "patterns": [
+        "/careers/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/guide-me/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "GuideMePage",
+      "patterns": [
+        "/guide-me/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/lets-talk/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "LetsTalkPage",
+      "patterns": [
+        "/lets-talk/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/services/ai/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "ServicesAiPage",
+      "patterns": [
+        "/services/ai/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/ai-education/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "AiEducationPage",
+      "patterns": [
+        "/ai-education/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/phoenix-burst/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "PhoenixBurstPage",
+      "patterns": [
+        "/phoenix-burst/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/federal/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "FederalPage",
+      "patterns": [
+        "/federal/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/human-futures/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "HumanFuturesPage",
+      "patterns": [
+        "/human-futures/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/next-chapter/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "NextChapterPage",
+      "patterns": [
+        "/next-chapter/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/testimonials/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "TestimonialsPage",
+      "patterns": [
+        "/testimonials/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/services/*",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "ServicePage",
+      "patterns": [
+        "/services/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/events/",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "EventsPage",
+      "patterns": [
+        "/events/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/who-we-are/*",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "WhoWeArePage",
+      "patterns": [
+        "/who-we-are/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    },
+    {
+      "id": "type:/who-we-are/leadership/*",
+      "kind": "page-type",
+      "introducedAt": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd",
+      "cls": "ProfilePage",
+      "patterns": [
+        "/who-we-are/leadership/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "8e2769e7fb3dfdb31ad4658c6e6db0c1ddd0e34e4c9c38dd32722ab69f065edd"
+      }
+    }
+  ]
+}
